@@ -1,0 +1,11 @@
+.trusters {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.trusters-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
